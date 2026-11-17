@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b41177d-ba48-4893-833c-4f12d2bb7e0d" />
+
+
 <a id="top"></a>
 
 # Duino-Coin AVR AutoConfig for Windows
