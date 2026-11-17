@@ -1,0 +1,17 @@
+# Szemelyes beallitasok es titkok
+Setup_Settings.txt
+Settings.cfg
+*.bak
+*.tmp
+
+# Harmadik feltol szarmazo binarisok
+*.exe
+*.dll
+Duino-Coin AVR Miner 4.3/
+Duino-Coin PC Miner 4.3/
+Arduino_Code/
+ESP_Code/
+
+# Windows
+Thumbs.db
+Desktop.ini

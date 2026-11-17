@@ -1,0 +1,11 @@
+# Masold ezt a fajlt Setup_Settings.txt neven, majd szerkeszd.
+username=YOUR_DUINO_USERNAME
+donate=1
+language=english
+debug=n
+soc_timeout=10
+avr_timeout=10
+discord_presence=y
+periodic_report=300
+mining_key=None
+miner_exe=Duino_AVR_Miner_restarter_v1_1.exe
